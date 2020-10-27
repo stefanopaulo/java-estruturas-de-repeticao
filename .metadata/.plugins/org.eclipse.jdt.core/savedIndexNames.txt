@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Stefano\www\ws-eclipse\estruturas-repetitivas\.metadata\.plugins\org.eclipse.jdt.core
+4088832729.index
+1611258261.index

@@ -1,0 +1,30 @@
+import java.util.Locale;
+import java.util.Scanner;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		
+		System.out.print("Quantos casos você vai digitar? ");
+		int c = sc.nextInt();
+		
+		int qntS = 0;
+		int qntR = 0;
+		int qntC = 0;
+		int total = 0;
+		
+		for(int i = 1; i <= c; i++) {
+			System.out.print("Quantidade de cobaias: ");
+			sc.nextLine();
+			int qnt = sc.nextInt();
+			System.out.print("Tipo de cobaia: ");
+			String tipo = sc.nextLine();
+			
+		}
+		
+		sc.close();
+	}
+
+}
